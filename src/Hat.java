@@ -7,4 +7,6 @@ public class Hat {
     // adding more lines here
 
     // continue working
+
+    // work completed
 }
